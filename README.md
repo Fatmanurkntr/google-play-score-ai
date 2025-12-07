@@ -94,7 +94,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 **1. Repoyu Klonlayın**
 
 ````bash
-git clone [https://github.com/Fatmanurkntr/google-play-score-ai.git](https://github.com/Fatmanurkntr/google-play-score-ai.git)
+git clone https://github.com/Fatmanurkntr/google-play-score-ai.git
 cd google-play-score-ai
 ````
 
