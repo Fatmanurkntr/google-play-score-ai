@@ -4,6 +4,15 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
 
+
+## Canlı Uygulama (Deployment)
+
+Projenin final modeli ve arayüzü Streamlit Cloud üzerinde canlıya alınmıştır. Uygulamayı tarayıcınız üzerinden hemen kullanmak için aşağıdaki bağlantıya tıklayabilirsiniz:
+
+👉 **[Canlı Uygulamaya Git](https://app-play-score-ai-6nzzeg286p9rgueb7zpsp8.streamlit.app/)**
+
+Uygulama, kullanıcıdan uygulama özelliklerini alarak tahmini bir başarı puanı sunar ve sektör ortalaması ile kıyaslama yapar. Ayrıca, puanı artırmak için "güncelleme sıklığı" veya "etkileşim oranı" gibi konularda yapay zeka destekli tavsiyeler verir.
+
 ## Proje Hakkında
 
 Bu proje, **MultiGroup Zero2End Machine Learning Bootcamp** kapsamında final bitirme projesi olarak geliştirilmiştir.
