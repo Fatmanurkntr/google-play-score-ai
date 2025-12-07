@@ -1,0 +1,28 @@
+# --- Python Genel ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sanal Ortamlar (Burası Çok Önemli) ---
+# Kütüphanelerin kendisini değil, sadece requirements.txt'yi göndeririz.
+venv/
+env/
+.venv/
+.env
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Editör Ayarları ---
+.vscode/
+.idea/
+
+# --- İşletim Sistemi Dosyaları ---
+.DS_Store
+Thumbs.db
+
+# --- Streamlit ---
+# Şifrelerin olduğu dosyayı asla gönderme!
+.streamlit/secrets.toml
+
